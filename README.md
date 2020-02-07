@@ -1,2 +1,2 @@
 # ecommerce
-My Gamai Ecommerce Web site
+My Gamai Ecommerce Web site.
